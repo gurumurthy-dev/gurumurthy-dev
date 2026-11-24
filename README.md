@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Gurumurthy
 
-<!--
-**gurumurthy-dev/gurumurthy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Magento 2 Developer | PHP Developer | eCommerce Solutions
 
-Here are some ideas to get you started:
+I specialize in developing custom Magento 2 extensions and building scalable eCommerce solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Focus
+
+- Magento 2 Custom Extension Development
+- Magento 2 Module Development
+- Checkout Customization
+- Payment Gateway Integration
+- Shipping Method Integration
+- eCommerce Performance Optimization
+- Magento SEO Optimization
+- REST API Integration
+
+## Technologies & Skills
+
+- PHP
+- Magento 2 / Adobe Commerce
+- MySQL
+- JavaScript / jQuery
+- HTML5 / CSS3
+- XML
+- Git & GitHub
+- REST APIs
+
+## Featured Projects
+
+Coming soon...
+
+- Smart Delivery Date & Time Slot
+- Free Shipping Progress Bar
+- Advanced Product Labels
+- Product Image SEO Manager
+- Advanced Order Management Notes
+
+## My Goal
+
+Building useful, reusable and well-documented Magento 2 extensions for the eCommerce community.
+
+## Connect With Me
+
+GitHub: https://github.com/gurumurthy-dev
